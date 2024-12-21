@@ -39,12 +39,12 @@ A modern, animated profile card interface built with SwiftUI featuring glassmorp
 ### Installation
 
 1. Clone the repository
-```bash
+```
 git clone https://github.com/speedyfriend67/SwiftAnimation-SwiftUI.git
 Open the project in Xcode
 cd SwiftAnimation-SwiftUI
 open SwiftAnimation-SwiftUI.xcodeproj
-Build and run the project
+Build and run the project```
 
 ## 💻 Usage
 
